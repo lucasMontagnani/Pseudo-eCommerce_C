@@ -2,7 +2,7 @@
 Um marketplace na linguagem C, contendo duas interfaces (ADM/Cliente).
 
 ### 💻 Sobre
-<p>Este projeto foi uma proposta para o trabalho final do curso de Programação Estruturada, onde apliquei os conhecimentos adquiridos até aquele ponto do curso em um jogo para terminal construido na linguagem C.</p>
+<p>Este projeto foi uma proposta para o trabalho final do curso de Programação Estruturada, onde apliquei os conhecimentos adquiridos até aquele ponto do curso em um modelo de e-commerce simples, sem cadastro, apenas gerenciamento de estoque tanto pela interface do cliente quanto pela interface do administrador,. Abaixo listei algumas das funcionalidades presentes na aplicalção.</p>
 
 ### ⚙️ Features
 - [x] Menu de opções
